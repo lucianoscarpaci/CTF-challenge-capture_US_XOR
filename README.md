@@ -10,7 +10,7 @@ Use the search function in your code editor to look at the combo ```@ S```
 
 @ S : KkNURntQQVlfQVRURU5USU9OX1RPX1RIRV9ERVRBSUxTfQ==  
 
-Base64 decode this encoded string: KkNURntQQVlfQVRURU5USU9OX1RPX1RIRV9ERVRBSUxTfQ==  
+decode this encoded string: KkNURntQQVlfQVRURU5USU9OX1RPX1RIRV9ERVRBSUxTfQ==  
 
 *CTF{PAY_ATTENTION_TO_THE_DETAILS}
 
